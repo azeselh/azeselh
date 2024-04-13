@@ -1,8 +1,3 @@
-<style>
-  div{
-    background-color : red;
-  }
-</style>
 <h2 align="left">Hi 👋! My name is azeddine and I'm a Full-stack developer, from spain</h2>
 
 ###

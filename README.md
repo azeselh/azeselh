@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://github.com/azeselh/azeselh/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/azeselh/output/snake.svg" alt="Snake animation" />
 
 ###

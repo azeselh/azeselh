@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/azeselh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/azeselh/azeselh/output/snake.svg" alt="Snake animation" />
 
 ###
